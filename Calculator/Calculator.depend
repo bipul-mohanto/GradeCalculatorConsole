@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1491745525 source:c:\users\wonderland\desktop\softwaredepelopmentassesment\calculator\calculator.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
